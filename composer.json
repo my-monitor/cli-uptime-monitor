@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-uptime-monitor",
+    "name": "my-monitor/cli-uptime-monitor",
     "description": "A powerful, easy to configure uptime monitor",
     "keywords": [
         "spatie",
@@ -13,6 +13,10 @@
             "email": "freek@spatie.be",
             "homepage": "https://spatie.be",
             "role": "Developer"
+        },
+        {
+            "name": "Ahmed Ashraf",
+            "email": "ahmed29329@gmail.com"
         }
     ],
     "require": {
